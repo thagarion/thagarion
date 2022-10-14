@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thagarion&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=thagarion&show_icons=true&theme=buefy)
+
